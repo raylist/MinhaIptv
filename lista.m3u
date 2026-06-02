@@ -1,1 +1,181 @@
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
+## 📺 TVRAY
 
+
+#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Brasil: cinema",CineMonde | Soul TV Brasil
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema",DarkFlix HD | Soul TV Brasil
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Brasil: cinema",MovieSphere | Brasil
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema",MyTime Movie Network | Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil ~ link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime CinEspanto | Suspense e Terror | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Comédia | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Crime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Família | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Romance | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema",Soul Cine Clube | Brasil 
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: educativos e documentários",RBA TV | Rio do Sul | SC
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="Brasil: educativos e documentários",Phoenix TV | Soul TV Brasil
+http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",Space Today TV | Brasil 
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="Brasil: educativos e documentários",Rede Minas | Brasil
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="Brasil: educativos e documentários",TV Brasil Web
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: educativos e documentários",TV Brasil | TVE ~ RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura | São Paulo
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Brasil: educativos e documentários",TV Cultura | Catve | PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura | TV Futuro | RN
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="Brasil: educativos e documentários",TV Escola | Brasil
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",TV Paraná Turismo | Brasil
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: esportes e e-sports",All Sports | Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Brasil: esportes e e-sports",Motorvision | Pluto TV Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Brasil: esportes e e-sports",Motorvision | Pluto TV Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
+#EXTINF:-1 tvg-id="PonTV.br" tvg-logo="https://i.imgur.com/kySWaiL.png" group-title="Brasil: esportes e e-sports",Ponte Preta | Campinas SP | Soul TV Brasil
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 tvg-id="UniqueSports.br" tvg-logo="https://uniquetv.com.br/img/logo-uniquetv.png" group-title="Brasil: esportes e e-sports",Unique Sports | SC Brasil
+https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
+#EXTINF:-1 tvg-id="VitrineEsportiva.br" tvg-logo="https://i.imgur.com/zKi4iBj.png" group-title="Brasil: esportes e e-sports",Vitrine Esporte
+https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="Brasil: humor; novelas e séries",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI Ficção HD" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Brasil: humor; novelas e séries",TVI Ficção | Portugal
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Brasil: humor; novelas e séries",Xtreme TV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="Brasil: lifestyle e realities",Assim é Portugal | Brasil
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="Brasil: lifestyle e realities",Astral TV | Brasil 
+https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="Brasil: lifestyle e realities",Bem Melhor | Soul TV
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",MasterChef Brasil | RunTime TV
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Nosey Escândalos | Samsung
+https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iGKvaRc.png" group-title="Brasil: lifestyle e realities",Oportunidades TV | full HD
+http://maistop.net:80/live/meutedio/meutedio/1.m3u8
+#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="Brasil: lifestyle e realities",Pet Lovers | Brasil
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="Brasil: lifestyle e realities",Trace Brazuca | Xiaomi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="Brasil: lifestyle e realities",U Miss TV | Soul TV Brasil 
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="Brasil: lifestyle e realities",Viajando pelo Brasil | Soul TV Brasil
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Brasil: notícias",ARTV Canal Parlamento | Portugal
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brasil: notícias",Record News | RunTime Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-id="RTP 3 HD" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="Brasil: notícias",RTP 3 | Portugal
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 3 HD" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="Brasil: notícias",RTP 3 | Portugal | link 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: notícias",TV Alego | GO Brasil
+https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
+#EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="Brasil: notícias",TV ALMG | MG Brasil
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: notícias",TV Câmara | Brasil
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: notícias",TV Câmara 2 | Brasil
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: notícias",TV Câmara 3 | Brasil
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://i.imgur.com/qIPX1zk.png" group-title="Cinema em espanhol",Chiquilines | Distro
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://i.imgur.com/qIPX1zk.png" group-title="Cinema em espanhol",Chiquilines | Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Cinema em espanhol",Cindie Lite
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1311
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Cinema em espanhol",Cindie Lite | legenda em espanhol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=820
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Cinema em espanhol",Cindie Lite 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Nfvyof.png" group-title="Cinema em espanhol",Cine Picante
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f47" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Cinema em espanhol",Cine Real | Plex 
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | EUA
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | Canela TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1735
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinesureno_logo_light.png" group-title="Cinema em espanhol",Cine Sureño | Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-logo="https://i.imgur.com/5WxT3j2.png" group-title="Cinema em espanhol",Cinema Dinamita | México
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cLL5Olb.png" group-title="Cinema em espanhol",Cinemundo | Jungo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1397
+#EXTINF:-1 tvg-id="ESBA2200008NQ" tvg-logo="https://i.imgur.com/lyBkCzB.png" group-title="Cinema em espanhol",Cortos | Shorts TV
+https://shortstv-fast-spain-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkAdpEZ.png" group-title="Cinema em espanhol",De Película | Roku
+http://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6323ac0f8f253768c26b5529" tvg-logo="https://i.imgur.com/7mAVs5D.png" group-title="Cinema em espanhol",Flou Cine | Distro TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="Cinema em espanhol",Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-To
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27" tvg-logo="https://i.imgur.com/K4pTxtQ.png" group-title="Cinema em espanhol",La Corriente
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27" tvg-logo="https://i.imgur.com/K4pTxtQ.png" group-title="Cinema em espanhol",La Corriente | link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1678
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27" tvg-logo="https://i.imgur.com/K4pTxtQ.png" group-title="Cinema em espanhol",La Corriente | link 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1680
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27" tvg-logo="https://i.imgur.com/K4pTxtQ.png" group-title="Cinema em espanhol",La Corriente | link 4
+https://lacorriente-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61b8be666e55fa31437a50a7_lacorriente-live/master.m3u8?channel=ottpri_sl_lc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ttfoaTD.png" group-title="Cinema em espanhol",Must See Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1393
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ttfoaTD.png" group-title="Cinema em espanhol",Must See Movies | link 2
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/11a34eba-a706-48c1-a67f-742d647d6af1/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gHoETlt.png" group-title="Cinema em espanhol",Romance Channel | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="Cinema em espanhol",Runtime Español | Plex
+https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="Cinema em espanhol",Runtime Español | Plex
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Cinema em espanhol",Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-608b7095a09205002da4f293" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tucine_logo_light.png" group-title="Cinema em espanhol",Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ViendoMovies.us" tvg-logo="https://i.imgur.com/YjyJAo2.png" group-title="Cinema em espanhol",Viendo Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1125
+
+
+
+#EXTINF:-1 group-title="TV",Canal 2
+https://servidor.com/canal2.m3u8
+
+#EXTINF:-1 group-title="Rádio",Rádio Online
+https://servidor.com/radio.mp3
