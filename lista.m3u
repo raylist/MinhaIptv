@@ -1,7 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV",Canal 1
-https://servidor.com/canal1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime CinEspanto | Suspense e Terror | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",Space Today TV | Brasil 
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="Brasil: humor; novelas e séries",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TV",Canal 2
 https://servidor.com/canal2.m3u8
