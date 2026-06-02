@@ -172,6 +172,68 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/pla
 #EXTINF:-1 tvg-id="ViendoMovies.us" tvg-logo="https://i.imgur.com/YjyJAo2.png" group-title="Cinema em espanhol",Viendo Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1125
 
+#EXTINF:-1 tvg-id="H1.am" tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades em vários idiomas",1 TV | Armênia
+https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://i.imgur.com/sMcdkLt.png" group-title="Variedades em vários idiomas",Animax | áudio japonês, legenda vietnamita
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="Variedades em vários idiomas",ARB 24 | Azerbaijão
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L7a2386.png" group-title="Variedades em vários idiomas",Area Ten TV | em pidgin | Nigéria
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1728
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em vários idiomas",ATV | Bélgica em neerlandês (holandês)
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/sz9L37n.png" group-title="Variedades em vários idiomas",Bel Ros | Belarus
+https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqZR3cr.png" group-title="Variedades em vários idiomas",Bless TV | Índia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1718
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-country="BA" tvg-language="Serbian" tvg-logo="https://i.imgur.com/zhxabOA.png" group-title="Variedades em vários idiomas",BN TV | Bósnia e Herzegovina
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em vários idiomas",Channel 20 | Israel
+https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9MtX4o.png" group-title="Variedades em vários idiomas",Elshinta TV | Indonésia
+http://group2-swiftservesd-1.dens.tv/s/s10/index.m3u8
+#EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://i.imgur.com/BpCY0YP.png" group-title="Variedades em vários idiomas",Flowers TV | língua malaiala | Índia
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://i.imgur.com/BpCY0YP.png" group-title="Variedades em vários idiomas",Flowers TV | Índia | link 2
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KpXQjWp.png" group-title="Variedades em vários idiomas",Jaihind | Índia
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SccZK6g/JOJ.png" group-title="Variedades em vários idiomas",JoJ | Eslováquia 
+http://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNRvsnZ/JOJ-Family.jpg" group-title="Variedades em vários idiomas",JoJ Family | Eslováquia 
+http://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G5VWSNM/Plus.png" group-title="Variedades em vários idiomas",JoJ Plus | Eslováquia 
+http://nn.geo.joj.sk/hls/jojplus-540.m3u8f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/303uWla.png" group-title="Variedades em vários idiomas",Kairali TV | língua malaiala | Índia
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Variedades em vários idiomas",Maná Hindi | português e hindi
+http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em vários idiomas",MIS Televizija | Idioma sérvio
+https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jDZJnth.png" group-title="Variedades em vários idiomas",Nigbati | em iorubá | Nigéria
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1530
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIMfnQa.png" group-title="Variedades em turco",Óčko Gold | República Tcheca
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades em vários idiomas",On Biz | Vietnã
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1364
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades em vários idiomas",On Biz | Vietnã 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1772
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDC7kr0.png" group-title="Variedades em vários idiomas",On Sports | Vietnã
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1363
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDC7kr0.png" group-title="Variedades em vários idiomas",On Sports | Vietnã
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1774
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kMRIWPl.png" group-title="Variedades em vários idiomas",Phim Viet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362
+#EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/lmspisP.png" group-title="Variedades em vários idiomas",Tawaf TV | Indonésia
+https://dgbgs3f3e3nka.cloudfront.net/hls/hanyacoba.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oKerZnf.png" group-title="Variedades em vários idiomas",Ten Orísun | em iorubá | Nigéria
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1728
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M7V8Ng2.png?1" group-title="Variedades em vários idiomas",TV Punjab | Índia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1719
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/tV1Ak8r.png" group-title="Variedades em vários idiomas",TVRI | Indonésia
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="Variedades em vários idiomas",Yamato Animation | áudio em japonês | legenda em italiano
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV",Canal 2
