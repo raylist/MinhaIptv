@@ -6,13 +6,28 @@
 ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime CinEspanto | Suspense e Terror | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f47" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Cinema em espanhol",Cine Real | Plex 
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | EUA
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | Canela TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1735
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinesureno_logo_light.png" group-title="Cinema em espanhol",Cine Sureño | Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-logo="https://i.imgur.com/5WxT3j2.png" group-title="Cinema em espanhol",Cinema Dinamita | México
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cLL5Olb.png" group-title="Cinema em espanhol",Cinemundo | Jungo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1397
+#EXTINF:-1 tvg-id="ESBA2200008NQ" tvg-logo="https://i.imgur.com/lyBkCzB.png" group-title="Cinema em espanhol",Cortos | Shorts TV
+https://shortstv-fast-spain-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkAdpEZ.png" group-title="Cinema em espanhol",De Película | Roku
+http://linear-354.frequency.stream/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",Space Today TV | Brasil 
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="Brasil: humor; novelas e séries",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
 
 #EXTINF:-1 group-title="TV",Canal 2
 https://servidor.com/canal2.m3u8
