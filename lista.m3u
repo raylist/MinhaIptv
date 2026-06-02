@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV",Canal 1
+https://servidor.com/canal1.m3u8
+
+#EXTINF:-1 group-title="TV",Canal 2
+https://servidor.com/canal2.m3u8
+
+#EXTINF:-1 group-title="Rádio",Rádio Online
+https://servidor.com/radio.mp3
