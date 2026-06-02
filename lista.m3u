@@ -2,54 +2,54 @@
 ## 📺 TVRAY
 
 
-#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Brasil: cinema",CineMonde | Soul TV Brasil
+#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Brasil: cinema",Soul TV Brasil
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema",DarkFlix HD | Soul TV Brasil
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema",Soul TV Brasil
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Brasil: cinema",MovieSphere | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Brasil: cinema",Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema",MyTime Movie Network | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema",Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime CinEspanto | Suspense e Terror | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime  | Suspense e Terror 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Comédia | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Crime | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Família | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Romance | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema",Soul Cine Clube | Brasil 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema",Brasil 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: educativos e documentários",RBA TV | Rio do Sul | SC
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: Documentários"
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="Brasil: educativos e documentários",Phoenix TV | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="Brasil: Documentários",Phoenix TV | Soul TV Brasil
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",Space Today TV | Brasil 
+#EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: Documentários",Space Today TV | Brasil 
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="Brasil: educativos e documentários",Rede Minas | Brasil
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="Brasil: Documentários",Rede Minas | Brasil
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="Brasil: educativos e documentários",TV Brasil Web
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: educativos e documentários",TV Brasil | TVE ~ RS
+#EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: Documentários",TV Brasil | TVE ~ RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura | São Paulo
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: Documentários",TV Cultura | São Paulo
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Brasil: educativos e documentários",TV Cultura | Catve | PR
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Brasil: Documentários",TV Cultura | Catve | PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura | TV Futuro | RN
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: Documentários",TV Cultura | TV Futuro | RN
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="Brasil: educativos e documentários",TV Escola | Brasil
+#EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="Brasil:Documentários",TV Escola | Brasil
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",TV Paraná Turismo | Brasil
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" group-title="Brasil: Documentários",TV Paraná Turismo | Brasil
 http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: esportes e e-sports",All Sports | Brasil
@@ -172,67 +172,67 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/pla
 #EXTINF:-1 tvg-id="ViendoMovies.us" tvg-logo="https://i.imgur.com/YjyJAo2.png" group-title="Cinema em espanhol",Viendo Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1125
 
-#EXTINF:-1 tvg-id="H1.am" tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades em vários idiomas",1 TV | Armênia
+#EXTINF:-1 tvg-id="H1.am" tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades",1 TV | Armênia
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://i.imgur.com/sMcdkLt.png" group-title="Variedades em vários idiomas",Animax | áudio japonês, legenda vietnamita
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://i.imgur.com/sMcdkLt.png" group-title="Variedades",Animax | áudio japonês, legenda vietnamita
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="Variedades em vários idiomas",ARB 24 | Azerbaijão
+#EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="Variedades",ARB 24 | Azerbaijão
 http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L7a2386.png" group-title="Variedades em vários idiomas",Area Ten TV | em pidgin | Nigéria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L7a2386.png" group-title="Variedades",Area Ten TV | em pidgin | Nigéria
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1728
-#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em vários idiomas",ATV | Bélgica em neerlandês (holandês)
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades",ATV | Bélgica em neerlandês (holandês)
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-#EXTINF:-1 tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/sz9L37n.png" group-title="Variedades em vários idiomas",Bel Ros | Belarus
+#EXTINF:-1 tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/sz9L37n.png" group-title="Variedades",Bel Ros | Belarus
 https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TqZR3cr.png" group-title="Variedades em vários idiomas",Bless TV | Índia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1718
-#EXTINF:-1 tvg-id="BNTV.ba" tvg-country="BA" tvg-language="Serbian" tvg-logo="https://i.imgur.com/zhxabOA.png" group-title="Variedades em vários idiomas",BN TV | Bósnia e Herzegovina
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-country="BA" tvg-language="Serbian" tvg-logo="https://i.imgur.com/zhxabOA.png" group-title="Variedades",BN TV | Bósnia e Herzegovina
 https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em vários idiomas",Channel 20 | Israel
+#EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E9MtX4o.png" group-title="Variedades em vários idiomas",Elshinta TV | Indonésia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9MtX4o.png" group-title="Variedades",Elshinta TV | Indonésia
 http://group2-swiftservesd-1.dens.tv/s/s10/index.m3u8
-#EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://i.imgur.com/BpCY0YP.png" group-title="Variedades em vários idiomas",Flowers TV | língua malaiala | Índia
+#EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://i.imgur.com/BpCY0YP.png" group-title="Variedades",Flowers TV | língua malaiala | Índia
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://i.imgur.com/BpCY0YP.png" group-title="Variedades em vários idiomas",Flowers TV | Índia | link 2
+#EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://i.imgur.com/BpCY0YP.png" group-title="Variedades",Flowers TV | Índia | link 2
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KpXQjWp.png" group-title="Variedades em vários idiomas",Jaihind | Índia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KpXQjWp.png" group-title="Variedades",Jaihind | Índia
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SccZK6g/JOJ.png" group-title="Variedades em vários idiomas",JoJ | Eslováquia 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SccZK6g/JOJ.png" group-title="Variedades",JoJ | Eslováquia 
 http://nn.geo.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MNRvsnZ/JOJ-Family.jpg" group-title="Variedades em vários idiomas",JoJ Family | Eslováquia 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNRvsnZ/JOJ-Family.jpg" group-title="Variedades",JoJ Family | Eslováquia 
 http://nn.geo.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G5VWSNM/Plus.png" group-title="Variedades em vários idiomas",JoJ Plus | Eslováquia 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G5VWSNM/Plus.png" group-title="Variedades",JoJ Plus | Eslováquia 
 http://nn.geo.joj.sk/hls/jojplus-540.m3u8f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/303uWla.png" group-title="Variedades em vários idiomas",Kairali TV | língua malaiala | Índia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/303uWla.png" group-title="Variedades",Kairali TV | língua malaiala | Índia
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Variedades em vários idiomas",Maná Hindi | português e hindi
+#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Variedades",Maná Hindi | português e hindi
 http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em vários idiomas",MIS Televizija | Idioma sérvio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades",MIS Televizija | Idioma sérvio
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jDZJnth.png" group-title="Variedades em vários idiomas",Nigbati | em iorubá | Nigéria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jDZJnth.png" group-title="Variedades",Nigbati | em iorubá | Nigéria
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1530
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIMfnQa.png" group-title="Variedades em turco",Óčko Gold | República Tcheca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIMfnQa.png" group-title="Variedades",Óčko Gold | República Tcheca
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades em vários idiomas",On Biz | Vietnã
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades",On Biz | Vietnã
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1364
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades em vários idiomas",On Biz | Vietnã 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades",On Biz | Vietnã 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1772
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eDC7kr0.png" group-title="Variedades em vários idiomas",On Sports | Vietnã
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDC7kr0.png" group-title="Variedades",On Sports | Vietnã
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1363
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eDC7kr0.png" group-title="Variedades em vários idiomas",On Sports | Vietnã
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDC7kr0.png" group-title="Variedades",On Sports | Vietnã
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1774
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kMRIWPl.png" group-title="Variedades em vários idiomas",Phim Viet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kMRIWPl.png" group-title="Variedades",Phim Viet
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362
-#EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/lmspisP.png" group-title="Variedades em vários idiomas",Tawaf TV | Indonésia
+#EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/lmspisP.png" group-title="Variedades",Tawaf TV | Indonésia
 https://dgbgs3f3e3nka.cloudfront.net/hls/hanyacoba.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oKerZnf.png" group-title="Variedades em vários idiomas",Ten Orísun | em iorubá | Nigéria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oKerZnf.png" group-title="Variedades",Ten Orísun | em iorubá | Nigéria
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1728
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M7V8Ng2.png?1" group-title="Variedades em vários idiomas",TV Punjab | Índia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M7V8Ng2.png?1" group-title="Variedades",TV Punjab | Índia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1719
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/tV1Ak8r.png" group-title="Variedades em vários idiomas",TVRI | Indonésia
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/tV1Ak8r.png" group-title="Variedades",TVRI | Indonésia
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="Variedades em vários idiomas",Yamato Animation | áudio em japonês | legenda em italiano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="Variedades",Yamato Animation | áudio em japonês | legenda em italiano
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
 
