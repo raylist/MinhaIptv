@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://www.youtube.com/s/desktop/1b273c14/jsbin/network.vflset/network.js" group-title="Filmes",Filme Completo Dublado | Terror e Suspense
-https://www.youtube.com/embed/tZyM6m5-ipM
+https://pluto.tv/br/on-demand/movies/697a10caacf7dd3dc42ccced/playlist.m3u8
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Filmes",MovieSphere | Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-type="serie" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes",MyTime Movie Network | Brasil
