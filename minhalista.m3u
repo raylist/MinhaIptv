@@ -23,18 +23,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Filmes",Soul Cine Clube | Brasil 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #### Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português 
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="Brasil: cristianismo",Evangelizar TV
+#EXTINF:-1tvg-type="live" tvg-id="TVBrasil.br" tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="Brasil: cristianismo",Evangelizar TV
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5uTSYY6.png" group-title="Brasil: cristianismo",Novo Tempo | Brasil
+#EXTINF:-1tvg-type="live" tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5uTSYY6.png" group-title="Brasil: cristianismo",Novo Tempo | Brasil
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Brasil: cristianismo",Rede Gospel | Brasil
+#EXTINF:-1tvg-type="live" tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Brasil: cristianismo",Rede Gospel | Brasil
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="Brasil: cristianismo",Rede Século 21 | Brasil
+#EXTINF:-1tvg-type="live" tvg-id="TVBrasil.br"  tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="Brasil: cristianismo",Rede Século 21 | Brasil
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/master.m3u8
-#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="Brasil: cristianismo",Rede Super | Brasil
+#EXTINF:-1 tvg-type="live" tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="Brasil: cristianismo",Rede Super | Brasil
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Brasil: cristianismo",Rede Vida | Brasil
+#EXTINF:-1 tvg-type="live" tvg-id="TVBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Brasil: cristianismo",Rede Vida | Brasil
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="Brasil: cristianismo",SBN Global
 https://acesso.ecast.site:3500/hybrid/play.m3u8
