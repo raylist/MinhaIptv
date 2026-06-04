@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus1TE12 - Apocalipse" tvg-logo="https://goo.gl/XfJ7hq" group-title="SERIE: SPARTACUS",Spartacus1TE12 - Apocalipse
+http://painel.iptvmove.com:25461/movie/danga07/1963/3324.mp4
+
 #EXTINF:-1 tvg-type="live" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="CANAIS ESPORTE",ESPN
 https://25461/live/danga07/1963/1322.m3u8
 #EXTINF:-1 tvg-type="live" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="DOCUMENTARIOS",Discovery Channel
