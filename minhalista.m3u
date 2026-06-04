@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-type="live" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="CANAIS ESPORTE",ESPN
-https://painel.iptvmove.com:25461/live/danga07/1963/1322.m3u8
+https://25461/live/danga07/1963/1322.m3u8
 #EXTINF:-1 tvg-type="live" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="DOCUMENTARIOS",Discovery Channel
-https://painel.iptvmove.com:25461/live/danga07/1963/1334.m3u8
+https://25461/live/danga07/1963/1334.m3u8
 #EXTINF:-1 tvg-type="live" tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="FILMES/SERIES",Cinemax HD
 https://painel.iptvmove.com:25461/live/danga07/1963/2256.m3u8
 #EXTINF:-1 tvg-type="live"  tvg-id = "AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png"  group-title="Filmes",AXN | 4K
