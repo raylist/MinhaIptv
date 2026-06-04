@@ -1,15 +1,4 @@
 #EXTM3U
-#################### Filmes ####################
-#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="Fox" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="FILMES",FOX SD
-http://107.182.231.88:1935/liverepeater/ch40-1/playlist.m3u8?MWINFO
-#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-name="AXN" tvg-logo="http://editorialcirculorojo.com/wp-content/uploads/axn_logo_antiguo.jpg" group-title="FILMES",AXN
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/252.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="FX [Brazil]" tvg-name="FX" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="FILMES",FX
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/224.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="FILMES",PARAMOUNT CHANNEL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/203.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Universal [Brazil]" tvg-name="Universal" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="FILMES",UNIVERSAL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/170.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-type="movie", Armadilha mortal | Youtube
 https://youtu.be/BUjKkmXMM2I
