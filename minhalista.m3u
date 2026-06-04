@@ -1,7 +1,7 @@
 #EXTM3U 
-# EXTINF : -1 tvg-tipo = "movie"  tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png"  group-title="Filmes",AXN | 4K
+# EXTINF:-1 tvg-tipo = "movie"  tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png"  group-title="Filmes",AXN | 4K
 http://painel.iptvmove.com:25461/live/danga07/1963/1350.m3u8
-# EXTINF : -1 tvg-id = "movie "  tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png"  group-title="Filmes",AXN | HD
+# EXTINF:-1 tvg-id = "movie"  tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png"  group-title="Filmes",AXN | HD
 http://painel.iptvmove.com:25461/live/danga07/1963/1418.m3u8
 #EXTINF:-1 tvg-type="movie", Armadilha mortal | Youtube
 https://youtu.be/BUjKkmXMM2I
