@@ -1,17 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Spartacus1TE12 - Apocalipse" tvg-logo="https://goo.gl/XfJ7hq" group-title="SERIE: SPARTACUS",Spartacus1TE12 - Apocalipse
-http://painel.iptvmove.com:25461/movie/danga07/1963/3324.mp4
-
-#EXTINF:-1 tvg-type="live" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="CANAIS ESPORTE",ESPN
-https://25461/live/danga07/1963/1322.m3u8
-#EXTINF:-1 tvg-type="live" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="DOCUMENTARIOS",Discovery Channel
-https://25461/live/danga07/1963/1334.m3u8
-#EXTINF:-1 tvg-type="live" tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="FILMES/SERIES",Cinemax HD
-https://painel.iptvmove.com:25461/live/danga07/1963/2256.m3u8
-#EXTINF:-1 tvg-type="live"  tvg-id = "AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png"  group-title="Filmes",AXN | 4K
-https://painel.iptvmove.com:25461/live/danga07/1963/1350.m3u8
-#EXTINF:-1 tvg-type="live"  tvg-id = "AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png"  group-title="Filmes",AXN | HD
-https://painel.iptvmove.com:25461/live/danga07/1963/1418.m3u8
+#EXTINF:-1 tvg-id="523312" tvg-name="AMC FHD" tvg-logo="http://conectdg26.me:80/images/yG0X5zwSYufTVESQOfs_IVJTOw1DP3RNV22VCWVRGUW7Cv_nyGIf2UnAE18Zx5HW.png" group-title="CANAIS | FILMES & SERIES",AMC FHD
+http://conectdg26.me:80/66366558/56081645/3916493
 
 #EXTINF:-1 tvg-type="movie", Armadilha mortal | Youtube
 https://youtu.be/BUjKkmXMM2I
