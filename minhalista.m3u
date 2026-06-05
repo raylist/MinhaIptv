@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-type="serie"  tvg-logo="https://i.imgur.com/6fMEWyY.jpg "  group-title = " N-Game of Thrones DUB " , 5x2-DUB Game of Thrones
+http://s.netcine.tv/netcine-bucket/got/05dub/02-ALTO.mp4
 #EXTINF:-1 tvg-type="movie", Armadilha mortal | Youtube
 https://youtu.be/BUjKkmXMM2I
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://www./assets/images/favicon/regular-d820a2316e4e12a928e30d5ccb4318f1.png" group-title="Filmes",Filme Completo Dublado | Terror e Suspense
