@@ -1,5 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-type="news" tvg-logo="https://logodownload.org" group-title="Notícias",Record News
+https://r7.com
 
+#EXTINF:-1 tvg-type="news" tvg-logo="https://logodownload.org" group-title="Notícias",Jovem Pan News
+https://5b7f3c45ab7c2.streamlock.net/8008/8008/playlist.m3u8
+
+#EXTINF:-1 tvg-type="news" tvg-logo="https://wikimedia.org" group-title="Notícias",TV Brasil (EBC)
+https://ebc.com.br
+
+#EXTINF:-1 tvg-type="news" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias",CNN Brasil (Via Youtube)
+https://youtube.com
+
+#EXTINF:-1 tvg-type="news" tvg-logo="https://wikimedia.org" group-title="Notícias",SBT News (Via Youtube)
+https://youtube.com
+
+#EXTINF:-1 tvg-type="news" tvg-logo="https://wikimedia.org" group-title="Notícias",TV Câmara
+https://camara.leg.br
+
+#EXTINF:-1 tvg-type="news" tvg-logo="https://wikimedia.org" group-title="Notícias",TV Senado
+https://ebc.com.br
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Filmes",MovieSphere | Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-type="serie" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes",MyTime Movie Network | Brasil
