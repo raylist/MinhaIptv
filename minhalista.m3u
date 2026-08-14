@@ -3,21 +3,21 @@
 #EXTINF:-1 tvg-type="live" tvg-logo="https://logodownload.org" group-title="News",Jovem Pan News
 https://5b7f3c45ab7c2.streamlock.net/8008/8008/playlist.m3u8
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Filmes",MovieSphere | Brasil
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Filmes",MovieSphere 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-type="serie" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes",MyTime Movie Network | Brasil
+#EXTINF:-1 tvg-type="serie" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime | Brasil
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Ação | Brasil
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Ação | Brasil ~ link 2
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Ação |
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime CinEspanto | Suspense e Terror | Brasil
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime CinEspanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Comédia | Brasil
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-type="live" tvg-type="movie" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Crime | Brasil
+#EXTINF:-1 tvg-type="live" tvg-type="movie" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Família | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
@@ -28,68 +28,68 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #### Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português 
 
-#EXTINF:-1 tvg-type="live" tvg-id="TVBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Brasil: cristianismo",Rede Vida | Brasil
+#EXTINF:-1 tvg-type="live" tvg-id="TVBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Religioso",Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
 ############## Brasil: esportes ###########Brasil esportes ############## Brasil: sports ############## ############## Brasil esportes
 
-#EXTINF:-1 tvg-type="live" tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: esportes e e-sports",All Sports | Brasil
+#EXTINF:-1 tvg-type="live" tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Esportes"
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-type="live" tvg-id="VitrineEsportiva.br" tvg-logo="https://i.imgur.com/zKi4iBj.png" group-title="Esportes",Vitrine Esporte
+#EXTINF:-1 tvg-type="live" tvg-id="VitrineEsportiva.br" tvg-logo="https://i.imgur.com/zKi4iBj.png" group-title="Esportes"
 https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
 #### Brasil: humor; novelas e séries ######### Brasil: humor; novelas e séries ########### Brasil: humor; novelas e séries 
 
-#EXTINF:-1 tvg-type="live" tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Novelas",Xtreme TV
+#EXTINF:-1 tvg-type="live" tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Novelas", TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 ####################### Brasil crianças kids teen adolescentes ##################### Brasil: infanto-juvenis #####################
 
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="infanto-juvenis",TG Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil 2
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="infanto-juvenis",TG Brasil 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil 3
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="infanto-juvenis",TG Brasil 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil | RunTime
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="infanto-juvenis", TG Brasil 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 
 ############# Brasil LIFESTYLE #### BRASIL: LIFESTYLE ######### BRASIL: REALITIES ######### BRASIL REALITIES #######
 
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="Brasil: lifestyle e realities",Astral TV | Brasil 
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="Brasil:realities", Astral TV 
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="Brasil: lifestyle e realities",Viajando pelo Brasil | Soul TV Brasil
+#EXTINF:-1 tvg-type="live" tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="lifestyle",Viajando pelo Brasil
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ##############
 
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brasil: notícias",Record News | RunTime Brasil
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Notícias",TV Câmara | Brasil
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Notícias",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 ################### Brasil: rádios em português #######################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Brasil: rádios",Cultura do Pará | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Rádios",Cultura do Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
 BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Brasil: variedades",Bem Mais TV | RJ | Brasil
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Variedades",Bem Mais TV | RJ 
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="CentralTVBrasil" tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Brasil: variedades",Central TV Brasil
+#EXTINF:-1 tvg-id="CentralTVBrasil" tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Variedades",Central TV 
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Variedades",Rede TV | TV Arapuan | PB Brasil
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Variedades",Rede TV
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Variedades",TV A Folha | Palmas PR Brasil
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
-#EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/5SsUIpn.png" group-title="Brasil: variedades",TV Metrópole | Caucaia CE Brasil
+#EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/5SsUIpn.png" group-title="Variedades",TV Metrópole | Caucaia CE Brasil
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
 ####### Caça; pesca e rodeio em inglês ####### Caça; pesca e rodeio em inglês ####
 
-#EXTINF:-1 tvg-id="USAJ2200012RN" tvg-logo="http://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="Caça; pesca e rodeio em inglês",PursuitUP | EUA 
+#EXTINF:-1 tvg-id="USAJ2200012RN" tvg-logo="http://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="Caça; pesca, rodeio",PursuitUP
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1165
 
 
