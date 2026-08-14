@@ -41,7 +41,7 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
 #### Brasil: humor; novelas e séries ######### Brasil: humor; novelas e séries ########### Brasil: humor; novelas e séries 
 
-#EXTINF:-1 tvg-type="live" tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Novelas", TV
+#EXTINF:-1 tvg-type="live" tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Séries", TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 ####################### Brasil crianças kids teen adolescentes ##################### Brasil: infanto-juvenis #####################
@@ -78,8 +78,6 @@ BRASIL: variedades em português ############################### antes: BRASIL T
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Variedades",Bem Mais TV | RJ 
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="CentralTVBrasil" tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Variedades",Central TV 
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Variedades",Rede TV
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Variedades",TV A Folha | Palmas PR Brasil
