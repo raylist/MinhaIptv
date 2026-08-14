@@ -41,7 +41,7 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
 #### Brasil: humor; novelas e séries ######### Brasil: humor; novelas e séries ########### Brasil: humor; novelas e séries 
 
-#EXTINF:-1 tvg-type="live" tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Séries", TV
+#EXTINF:-1 tvg-type="serie" tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Séries", TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 ####################### Brasil crianças kids teen adolescentes ##################### Brasil: infanto-juvenis #####################
