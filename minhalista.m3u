@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="live" tvg-logo="https://logodownload.org" group-title="News",Jovem Pan News
-https://5b7f3c45ab7c2.streamlock.net/8008/8008/playlist.m3u8
-
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Filmes",MovieSphere 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-type="serie" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes",MyTime Movie Network
@@ -64,8 +61,12 @@ https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u
 
 BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ##############
 
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias",Record News
+#EXTINF:-1 tvg-type="live" tvg-logo="https://logodownload.org" group-title="News",Jovem Pan News
+https://5b7f3c45ab7c2.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="News",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-type="live" tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" tvg-id="RecordNews.br" tvg-chno="7" tvg-country="BR" group-title="News",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Notícias",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
